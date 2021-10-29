@@ -5,3 +5,8 @@
 .best {
   color:blue;
 }
+
+.highlight {
+  background-color: rgb(245, 224, 105);
+  border: 2px solid black;
+}
